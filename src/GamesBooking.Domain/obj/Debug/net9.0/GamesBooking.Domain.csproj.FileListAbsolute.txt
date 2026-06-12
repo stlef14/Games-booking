@@ -1,0 +1,12 @@
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/bin/Debug/net9.0/GamesBooking.Domain.deps.json
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/bin/Debug/net9.0/GamesBooking.Domain.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/bin/Debug/net9.0/GamesBooking.Domain.pdb
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.AssemblyInfoInputs.cache
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.AssemblyInfo.cs
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.csproj.CoreCompileInputs.cache
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.sourcelink.json
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/refint/GamesBooking.Domain.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/GamesBooking.Domain.pdb
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Domain/obj/Debug/net9.0/ref/GamesBooking.Domain.dll

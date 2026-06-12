@@ -1,0 +1,6 @@
+{
+  "GamesBooking.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/slef\/Personal\/development\/Games-booking\/src\/GamesBooking.Api",
+  "GamesBooking.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/slef\/Personal\/development\/Games-booking\/src\/GamesBooking.Application",
+  "GamesBooking.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/slef\/Personal\/development\/Games-booking\/src\/GamesBooking.Domain",
+  "GamesBooking.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/slef\/Personal\/development\/Games-booking\/src\/GamesBooking.Infrastructure"
+}

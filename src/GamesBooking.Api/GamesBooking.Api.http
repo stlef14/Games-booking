@@ -1,0 +1,6 @@
+@GamesBooking.Api_HostAddress = http://localhost:5293
+
+GET {{GamesBooking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

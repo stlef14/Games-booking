@@ -1,0 +1,16 @@
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/bin/Debug/net9.0/GamesBooking.Application.deps.json
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/bin/Debug/net9.0/GamesBooking.Application.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/bin/Debug/net9.0/GamesBooking.Application.pdb
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/bin/Debug/net9.0/GamesBooking.Domain.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/bin/Debug/net9.0/GamesBooking.Domain.pdb
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.csproj.AssemblyReference.cache
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.AssemblyInfoInputs.cache
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.AssemblyInfo.cs
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.csproj.CoreCompileInputs.cache
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.sourcelink.json
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBoo.12EFB49C.Up2Date
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/refint/GamesBooking.Application.dll
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/GamesBooking.Application.pdb
+/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/obj/Debug/net9.0/ref/GamesBooking.Application.dll

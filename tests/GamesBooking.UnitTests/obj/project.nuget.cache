@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fo8zuEn52Mw=",
+  "dgSpecHash": "zoQT9Lq/r60=",
   "success": true,
   "projectFilePath": "/Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/GamesBooking.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/slef/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/slef/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "/Users/slef/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.17/microsoft.extensions.dependencyinjection.abstractions.9.0.17.nupkg.sha512",
     "/Users/slef/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "/Users/slef/.nuget/packages/microsoft.testplatform.objectmodel/17.12.0/microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
     "/Users/slef/.nuget/packages/microsoft.testplatform.testhost/17.12.0/microsoft.testplatform.testhost.17.12.0.nupkg.sha512",

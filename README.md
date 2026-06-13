@@ -54,10 +54,16 @@ To start the API development server:
 dotnet run --project src/GamesBooking.Api --launch-profile http
 ```
 
-Once running, you can access the root endpoint:
-* **Root Endpoint**:
+Once running, you can access the API:
+
+* **Root** (service info):
   ```bash
-  curl http://localhost:5080/
+  curl http://localhost:5293/
+  ```
+
+* **Games**:
+  ```bash
+  curl http://localhost:5293/api/games
   ```
 
 ---

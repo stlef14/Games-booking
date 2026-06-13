@@ -1,0 +1,47 @@
+players:
+  - name: "Alex Ovechkin"
+    role: "Normal"
+    id: "1"
+  - name: "Carey Price"
+    role: "Goaler"
+    id: "2"
+  - name: "Connor McDavid"
+    role: "Normal"
+    id: "3"
+  - name: "John Doe"
+    role: "Normal"
+    id: "4"
+  - name: "Jane Doe"
+    role: "Goaler"
+    id: "5"
+  - name: "Jim Beam"
+    role: "Normal"
+    id: "6"
+  - name: "James Beam"
+    role: "Normal"
+    id: "7"
+  - name: "Carl Sagan"
+    role: "Normal"
+    id: "8"
+  - name: "Some Body"
+    role: "Normal"
+    id: "9"
+  - name: "No Body"
+    role: "Normal"
+    id: "10"
+
+games:
+  - date: "2026-06-12"
+    time: "7:00"
+    duration: "90 minutes"
+    subscribed_players_id: [1, 3, 4, 6, 7, 8, 9, 10]
+    substitute_players_id: []
+    subscribed_goalers_id: [2,5]
+    substitute_goalers_id: []
+  - date: "2026-06-13"
+    time: "7:00"
+    duration: "90 minutes"
+    subscribed_players_id: [1, 3, 4, 6, 7, 8, 9, 10]
+    substitute_players_id: []
+    subscribed_goalers_id: [2,5]
+    substitute_goalers_id: []

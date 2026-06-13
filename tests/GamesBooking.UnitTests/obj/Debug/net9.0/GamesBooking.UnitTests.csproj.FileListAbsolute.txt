@@ -8,6 +8,7 @@
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/GamesBooking.UnitTests.dll
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/GamesBooking.UnitTests.pdb
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/slef/Personal/development/Games-booking/tests/GamesBooking.UnitTests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll

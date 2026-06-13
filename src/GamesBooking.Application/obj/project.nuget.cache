@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/p9WNrg86+c=",
+  "dgSpecHash": "Mkj9LfUnUUo=",
   "success": true,
   "projectFilePath": "/Users/slef/Personal/development/Games-booking/src/GamesBooking.Application/GamesBooking.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/slef/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.17/microsoft.extensions.dependencyinjection.abstractions.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

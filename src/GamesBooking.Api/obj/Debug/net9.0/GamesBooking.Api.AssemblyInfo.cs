@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamesBooking.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bbb558c1e0bcd50f4569616216d82f21b99e5aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149a585fcee9c58e210dfbcb96a515d2d6ed199b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamesBooking.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamesBooking.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
